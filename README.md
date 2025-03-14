@@ -9,10 +9,6 @@
 -  Tored procedures and triggers for automation
 -  Normalization techniques to reduce redundancy and improve performance
   
-🔹 Tech Stack: SQL, OracleSQL/PLSQL
-
-
-
 
 - Adding a new hotel branch.
 - Adding a new guest.
@@ -22,6 +18,10 @@
 - Cancelling a room reservation
 - Creating an event.
 - Booking and Recommending hotel's events.
+
+
+🔹 Tech Stack: SQL, OracleSQL/PLSQL
+
 
 ### Features:
 
