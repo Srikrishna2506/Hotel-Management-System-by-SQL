@@ -1,23 +1,23 @@
 # Hotel Management System SQL
-### Developed a Hotel Management System using SQL to efficiently manage hotel operations such as room booking, customer details, billing, and staff records. The project involves designing a relational database, writing optimized SQL queries, and implementing CRUD operations to streamline hotel management.
+🔹Developed a Hotel Management System using SQL to efficiently manage hotel operations such as room booking, customer details, billing, and staff records. 
+  The project involves designing a relational database, writing optimized SQL queries, and implementing CRUD operations to streamline hotel management.
 
 🔹 Key Features:
 
--  Database design for rooms, customers, bookings, and payments
--  SQL queries for inserting, updating, deleting, and retrieving data
--  Joins and subqueries for efficient data retrieval
--  Tored procedures and triggers for automation
--  Normalization techniques to reduce redundancy and improve performance
-  
+   -  Database design for rooms, customers, bookings, and payments
+   -  SQL queries for inserting, updating, deleting, and retrieving data
+   -  Joins and subqueries for efficient data retrieval
+   -  Tored procedures and triggers for automation
+   -  Normalization techniques to reduce redundancy and improve performance
+   -  Adding a new hotel branch.
+   -  Adding a new guest.
+   -  Adding a new room
+   -  Booking a Room.
+   -  Tracking a room reservation (Available/Booked)
+   -  Cancelling a room reservation
+   -  Creating an event.
+   -  Booking and Recommending hotel's events.
 
-- Adding a new hotel branch.
-- Adding a new guest.
-- Adding a new room
-- Booking a Room.
-- Tracking a room reservation (Available/Booked)
-- Cancelling a room reservation
-- Creating an event.
-- Booking and Recommending hotel's events.
 
 
 🔹 Tech Stack: SQL, OracleSQL/PLSQL
