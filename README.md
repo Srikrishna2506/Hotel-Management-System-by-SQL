@@ -27,7 +27,7 @@
 
 
 
-### Features:
+## Features:
 
 - [Add Hotel](#add-hotel) **{procedure}** 
 - [Add Room](#add-room) **{procedure}**
