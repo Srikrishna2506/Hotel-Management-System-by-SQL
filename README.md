@@ -1,4 +1,4 @@
-## TITLE: Hotel Management System SQL
+## Title : Hotel Management System SQL
 
 ## Description:
 🔹Developed a Hotel Management System using SQL to efficiently manage hotel operations such as room booking, customer details, billing, and staff records. 
