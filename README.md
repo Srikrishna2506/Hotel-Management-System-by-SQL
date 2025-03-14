@@ -22,7 +22,9 @@
 
 
 
-## Tech Stack: SQL, OracleSQL/PLSQL
+## Tech Stack:
+   -  SQL, OracleSQL/PLSQL
+
 
 
 ### Features:
