@@ -1,5 +1,5 @@
 # Hotel Management System SQL
-### Creating a Hotel Management System from scratch that automates the hotel operations in terms of:
+### Developed a Hotel Management System using SQL to efficiently manage hotel operations such as room booking, customer details, billing, and staff records. The project involves designing a relational database, writing optimized SQL queries, and implementing CRUD operations to streamline hotel management.
 - Adding a new hotel branch.
 - Adding a new guest.
 - Adding a new room
